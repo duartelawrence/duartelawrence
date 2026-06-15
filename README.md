@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Lawrence Duarte 👋</h1>
+<h1 align="center">Lawrence Duarte</h1>
 
 <p align="center">
   <b>Data Analyst | Business Intelligence | Python | Data Visualization</b><br>
