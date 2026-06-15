@@ -25,15 +25,6 @@
 
 ---
 
-## 📌 Projetos em destaque
-
-| Projeto | Descrição |
-|---|---|
-| [🎓 Desigualdade Educacional no ENEM](https://github.com/duartelawrence/desigualdade-educacional-ENEM) | Análise da desigualdade educacional nos microdados do ENEM por tipo de escola, renda, raça e região. Inclui dashboard interativo no estilo visual do INEP feito com Streamlit. |
-| [🗳 Eleições Brasil 2018–2022](https://github.com/duartelawrence/eleicoes-brasil) | Análise comparativa de candidatos eleitos e não eleitos nas eleições brasileiras usando dados abertos do TSE. |
-| [📚 TCC — Engenharia de Dados](https://github.com/duartelawrence/TCC---ENGENHARIA-DE-DADOS) | Trabalho de conclusão de curso em Engenharia de Dados. |
-
----
 
 ## 📊 Estatísticas
 
