@@ -16,6 +16,10 @@
   <a href="mailto:armarius.duarte@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
+  <a href="http://lattes.cnpq.br/9437015403780414" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-1E4B8F?style=for-the-badge&logo=academia&logoColor=white"/>
+  </a>
 </p>
 
 ---
