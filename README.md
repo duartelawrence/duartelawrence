@@ -34,9 +34,3 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duartelawrence&layout=compact&hide_border=true&title_color=2B8A8A&text_color=2C3E50&bg_color=F5F6FA&locale=pt-br&hide=c"/>
 </p>
 
----
-
-<p align="center">
-  <i>Construindo meu portfólio de dados com foco em bases públicas brasileiras.</i><br>
-  <i>Aberto a colaborações e oportunidades na área de dados.</i>
-</p>
