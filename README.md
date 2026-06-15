@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>Data Analyst | Business Intelligence | Python | Data Visualization</b><br>
-  Transformo bases de dados públicas em análises sobre educação, desigualdade e política no Brasil —<br>
-  porque os números podem tornar problemas sociais impossíveis de ignorar.
+  Especialista em Engenharia de Dados pela Pontifícia Universidade Católica de Minas Gerais.<br>
+  Mestrando em História das Ciências, Técnicas e Epistemologia pela Universidade Federal do Rio de Janeiro (UFRJ).
 </p>
 
 ---
