@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Lawrence Duarte 👋</h1>
 
 <p align="center">
-  <b>Analista de Dados · Rio de Janeiro, Brasil</b><br>
+  <b>Data Analyst | Business Intelligence | Python | Data Visualization</b><br>
   Transformo bases de dados públicas em análises sobre educação, desigualdade e política no Brasil —<br>
   porque os números podem tornar problemas sociais impossíveis de ignorar.
 </p>
